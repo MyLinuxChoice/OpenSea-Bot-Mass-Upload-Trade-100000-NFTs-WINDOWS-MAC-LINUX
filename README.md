@@ -1,7 +1,6 @@
 <h2 align="center">OpenSea Bot Mass Upload & Trade 100000 NFTs (MAC WINDOWS ANDROID LINUX) </h2>
 <h3 align="center">Upload & Trade 100000 NFTs </h3>
 
- 
 
 ![Sniper](https://happycoin.club/wp-content/uploads/2022/01/opensea-marketplace.jpg)  
 
