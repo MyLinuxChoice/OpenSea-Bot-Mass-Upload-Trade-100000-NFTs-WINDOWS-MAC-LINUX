@@ -17,7 +17,7 @@
 8. Click Start button
 
 
-
+ 
 # Automatically and massively upload and sell your non-fungible tokens on OpenSea using Python Selenium.
 _A Selenium Python bot to automatically and bulky upload and sell your NFTs on OpenSea  
   (all metadata integrated - Ethereum and Polygon supported)._
