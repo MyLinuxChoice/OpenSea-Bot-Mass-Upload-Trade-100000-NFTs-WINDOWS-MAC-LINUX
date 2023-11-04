@@ -5,7 +5,7 @@
 ![Sniper](https://happycoin.club/wp-content/uploads/2022/01/opensea-marketplace.jpg)  
   
 ## YOUTUBE VIDEO -> https://www.youtube.com/watch?v=dk_N53vnJiY
-  
+
 1. Download Python and Chrome browser 
 2. pip install -r requirements.txt
 3. Set opensea wallet in Setting.json File  
