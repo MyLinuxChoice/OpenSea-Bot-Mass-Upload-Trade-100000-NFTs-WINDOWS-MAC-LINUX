@@ -14,7 +14,7 @@
 6. Set up your metamask wallet and login to Opensea using your wallet
 7. Open the collection you want to upload to and copy the link
 8. Click Start button
-  
+
    
 
 # Automatically and massively upload and sell your non-fungible tokens on OpenSea using Python Selenium.
